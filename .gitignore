@@ -1,0 +1,33 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Virtual environments
+venv/
+ENV/
+env/
+.venv/
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints
+
+# VSCode settings
+.vscode/
+
+# Environment variables
+.env
+
+# Data outputs and plots
+app/plots/
+*.png
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# CSV data (if you want to ignore uploaded/generated data, but keep sample data)
+# app/data/*.csv
+
+# Ollama cache
